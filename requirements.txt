@@ -3,4 +3,4 @@ pandas
 yfinance
 pandas-ta
 numpy==1.23.5
-setuptools
+setuptools>=65.5.0
